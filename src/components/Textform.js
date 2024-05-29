@@ -28,10 +28,10 @@ export default function Textform(props) {
     settext(event.target.value);
   };
 
-  const [Mystyle, setmystyle] = useState({
-    color: 'black',
-    backgroundColor: 'white'
-  });
+  // const [Mystyle, setmystyle] = useState({
+  //   color: 'black',
+  //   backgroundColor: 'white'
+  // });
 
   // const Toggledarkmode = () => {
   //   if (Mystyle.color === 'black') {
